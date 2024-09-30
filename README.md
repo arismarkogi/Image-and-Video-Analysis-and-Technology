@@ -1,3 +1,3 @@
-# Image-and-Video-Analysis-and-Technology
+# Machine Learning
 
-Jupyter Notebooks for the lab exercises of "Image and Video Analysis and Technology" course at NTUA
+Jupyter Notebooks for the lab exercises of "Machine Learning" course at NTUA
